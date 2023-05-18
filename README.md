@@ -1,30 +1,15 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Exercícios de Grafos 2
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Conteúdo da Disciplina**: Grafos 2<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 18/0019066  |  Isabella Carneiro |
+| 19/0036940  |  Rafael Fernandes |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Nesse projeto resolvemos quatro exercícios, sendo três do site [Beecrowd](https://www.beecrowd.com.br) e um do [LeetCode](https://leetcode.com). Neste repositório você poderá encontrar os arquivos dos quatro códigos que resolvem os exercícios e também o vídeo apresentando o projeto.
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
