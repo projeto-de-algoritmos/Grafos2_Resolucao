@@ -9,22 +9,18 @@
 | 19/0036940  |  Rafael Fernandes |
 
 ## Sobre 
-Nesse projeto resolvemos quatro exercícios, sendo três do site [Beecrowd](https://www.beecrowd.com.br) e um do [LeetCode](https://leetcode.com). Neste repositório você poderá encontrar os arquivos dos quatro códigos que resolvem os exercícios e também o vídeo apresentando o projeto.
+Nesse projeto resolvemos quatro exercícios, sendo três do site [Beecrowd](https://www.beecrowd.com.br) e um do [LeetCode](https://leetcode.com).
+- Roteadores (Nível 3) - [Enunciado](https://www.beecrowd.com.br/judge/en/problems/view/1774) - [Código](./Exercicios/1774.c)
+- Mania de Par (Nível 6) - [Enunciado](https://www.beecrowd.com.br/judge/en/problems/view/1931) - [Código](./Exercicios/1931.c)
+- Inversão (Nível 7) - [Enunciado](https://www.beecrowd.com.br/judge/en/problems/view/1550) - [Código](./Exercicios/1550.c)
+- Custo mínimo para conectar todos os pontos (Médio) - [Enunciado](https://leetcode.com/problems/min-cost-to-connect-all-points/description/) - [Código](./Exercicios/1584.c)
+
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+É possível encontrar um pdf com todos os exercícios com seus respectivos códigos criados pela dupla clicando [aqui](./grafos2.pdf). Também é possível acessar um vídeo explicando o projeto clicando [aqui](./Grafos2.mp4).
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: C++ e C<br>
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
-
-
+Para conferir a aceitação dos códigos basta copiar o código desejado, acessar o link do respectivo problema e rodar o mesmo. 
